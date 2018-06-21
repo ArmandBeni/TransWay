@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31.607 31.607">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e3f8f4;
+      }
+
+      .cls-2 {
+        fill: #3baca8;
+      }
+    </style>
+  </defs>
+  <g id="Groupe_15" data-name="Groupe 15" transform="translate(-148.984 -3287.196)">
+    <rect id="Rectangle_53" data-name="Rectangle 53" class="cls-1" width="31.607" height="31.607" transform="translate(148.984 3287.196)"/>
+    <g id="_001-facebook-logo" data-name="001-facebook-logo" transform="translate(158.862 3292.228)">
+      <path id="Tracé_848" data-name="Tracé 848" class="cls-2" d="M33.273,0l-2.79,0c-3.135,0-5.161,2.079-5.161,5.3V7.737H22.516a.439.439,0,0,0-.439.439v3.538a.439.439,0,0,0,.439.439h2.806V21.08a.439.439,0,0,0,.439.439h3.661a.439.439,0,0,0,.439-.439V12.153h3.28a.439.439,0,0,0,.439-.439V8.176a.439.439,0,0,0-.439-.439H29.86V5.668c0-.995.237-1.5,1.533-1.5h1.88a.439.439,0,0,0,.439-.439V.443A.439.439,0,0,0,33.273,0Z" transform="translate(-22.077)"/>
+    </g>
+  </g>
+</svg>

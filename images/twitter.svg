@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31.607 31.607">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e3f8f4;
+      }
+
+      .cls-2 {
+        fill: #3baca8;
+      }
+    </style>
+  </defs>
+  <g id="Groupe_16" data-name="Groupe 16" transform="translate(-195.408 -3287.196)">
+    <rect id="Rectangle_54" data-name="Rectangle 54" class="cls-1" width="31.607" height="31.607" transform="translate(195.408 3287.196)"/>
+    <g id="_002-twitter-logo-silhouette" data-name="002-twitter-logo-silhouette" transform="translate(200.116 3294.203)">
+      <g id="Groupe_13" data-name="Groupe 13" transform="translate(0 0)">
+        <path id="Tracé_849" data-name="Tracé 849" class="cls-2" d="M22.136,59.568a9.068,9.068,0,0,1-2.607.715,4.56,4.56,0,0,0,2-2.51,9.154,9.154,0,0,1-2.885,1.1,4.544,4.544,0,0,0-7.737,4.14,12.891,12.891,0,0,1-9.358-4.744,4.546,4.546,0,0,0,1.405,6.061,4.541,4.541,0,0,1-2.057-.57v.057a4.545,4.545,0,0,0,3.642,4.452,4.6,4.6,0,0,1-1.2.159,4.36,4.36,0,0,1-.855-.084A4.543,4.543,0,0,0,6.723,71.5,9.11,9.11,0,0,1,1.084,73.44,9.652,9.652,0,0,1,0,73.378a12.835,12.835,0,0,0,6.96,2.043A12.83,12.83,0,0,0,19.88,62.5l-.015-.588A9.067,9.067,0,0,0,22.136,59.568Z" transform="translate(-0.001 -57.441)"/>
+      </g>
+    </g>
+  </g>
+</svg>
